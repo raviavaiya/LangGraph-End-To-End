@@ -1,0 +1,6 @@
+1. ReAct agent 
+Loop [ Observation -> Action -> Thought  ]
+
+
+2. Self Ask With Search
+ Input ->  Multiple Intermediate -> 
